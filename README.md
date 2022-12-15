@@ -1,6 +1,8 @@
+![afbeelding](https://user-images.githubusercontent.com/33700526/207815865-9b471652-5723-4d35-8847-dce0fb9701eb.png)
+
 # SVG to PNG Cloudflare Worker
 
-> SVG to PNG converter in Cloudflare Workers
+SVG to PNG converter in Cloudflare Workers
 
 # Installation
 
