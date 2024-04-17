@@ -21,4 +21,4 @@ SVG to PNG converter in Cloudflare Workers
 
 `https://svg-to-png.mrproper.dev/{SVG URL}`
 
-[Demo]: https://svg-to-png.mrproper.dev/https://docs.tandoor.dev/logo_color.svg
+**Demo**: https://svg-to-png.mrproper.dev/https://docs.tandoor.dev/logo_color.svg
