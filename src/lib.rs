@@ -4,7 +4,7 @@ use worker::*;
 use console_error_panic_hook::set_once as set_panic_hook;
 
 #[event(fetch)]
-pub async fn main(req: Request, env: Env, _ctx: worker::Context) -> Result<Response> {
+pub async fn main(req: Request, _env: Env, _ctx: worker::Context) -> Result<Response> {
     console_log!("{} - [{}]", Date::now().to_string(), req.path());
     let image_path = req.path()[1..].to_string();
 
