@@ -19,7 +19,7 @@ usvg = "0.22.0"
 tiny-skia = "0.6.3"
 url = "2.2.2"
 
-console_error_panic_hook = { version = "0.1.1", optional = true }
+console_error_panic_hook = { version = "0.1.7", optional = true }
 
 [profile.release]
 opt-level = "s"
