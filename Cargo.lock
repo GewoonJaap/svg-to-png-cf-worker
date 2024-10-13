@@ -708,6 +708,7 @@ dependencies = [
  "cfg-if",
  "console_error_panic_hook",
  "resvg",
+ "serde",
  "serde_json",
  "tiny-skia",
  "url",
