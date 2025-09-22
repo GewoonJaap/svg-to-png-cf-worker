@@ -15,7 +15,7 @@ cfg-if = "1.0.0"
 worker = "0.5.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0.134"
-resvg = "0.22.0"
+resvg = "0.23.0"
 usvg = "0.22.0"
 tiny-skia = "0.6.3"
 url = "2.5.2"
